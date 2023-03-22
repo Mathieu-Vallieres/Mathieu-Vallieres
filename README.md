@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **backends projects**
 
-- 👨‍💻 All of my projects are available at [my GitHub profile](my GitHub profile)
+- 👨‍💻 All of my projects are available at my GitHub profile
 
 - 📫 You can reach me on **Discord : Mavallieres#4139**
 
